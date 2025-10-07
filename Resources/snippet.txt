@@ -1,0 +1,1 @@
+<model-viewer src="ImageToStl.com_ensamblaje1.3mf.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="aces" poster="poster.png" shadow-intensity="0.9" shadow-softness="1" camera-orbit="-293deg 177.3deg 211.4m" field-of-view="30deg" environment-image="legacy" exposure="0.57"> </model-viewer>
